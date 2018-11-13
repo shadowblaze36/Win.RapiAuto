@@ -48,9 +48,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClientesBL.cs" />
+    <Compile Include="CombustibleBL.cs" />
     <Compile Include="Contexto.cs" />
+    <Compile Include="DatosDeInicio.cs" />
     <Compile Include="SeguridadBL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TipoBL.cs" />
+    <Compile Include="TransmisionBL.cs" />
     <Compile Include="VehiculosBL.cs" />
   </ItemGroup>
   <ItemGroup>

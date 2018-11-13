@@ -8,14 +8,32 @@ namespace BL.RapiAuto
 {
     public class SeguridadBL
     {
-        public bool Autorizar(string usuario, string contraseña)
+        Contexto _contexto;
+
+        public SeguridadBL()
         {
-            if (usuario == "admin" && contraseña == "123")
+            _contexto = new Contexto();
+        }
+
+        public bool Autorizar(string usuario, string contrasena)
+        {
+            var usuarios = _contexto.Usuarios.ToList();
+
+            foreach (var usuarioDB in usuarios)
             {
-                return true;
+                if (usuario == usuarioDB.Nombre && contrasena == usuarioDB.Contrasena)
+                {
+                    return true;
+                }
             }
 
             return false;
         }
+    }
+    public class Usuario
+    {
+        public int Id { get; set; }
+        public string Nombre { get; set; }
+        public string Contrasena { get; set; }
     }
 }

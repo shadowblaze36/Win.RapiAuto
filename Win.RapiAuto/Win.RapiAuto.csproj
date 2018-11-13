@@ -101,7 +101,20 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <None Include="packages.config" />
+    <None Include="Properties\DataSources\BL.RapiAuto.Clientes.datasource" />
+    <None Include="Properties\DataSources\BL.RapiAuto.ClientesBL.datasource" />
+    <None Include="Properties\DataSources\BL.RapiAuto.Combustible.datasource" />
+    <None Include="Properties\DataSources\BL.RapiAuto.CombustibleBL.datasource" />
+    <None Include="Properties\DataSources\BL.RapiAuto.Contexto.datasource" />
+    <None Include="Properties\DataSources\BL.RapiAuto.DatosDeInicio.datasource" />
+    <None Include="Properties\DataSources\BL.RapiAuto.Resultado.datasource" />
+    <None Include="Properties\DataSources\BL.RapiAuto.ResultadoCliente.datasource" />
     <None Include="Properties\DataSources\BL.RapiAuto.SeguridadBL.datasource" />
+    <None Include="Properties\DataSources\BL.RapiAuto.Tipo.datasource" />
+    <None Include="Properties\DataSources\BL.RapiAuto.TipoBL.datasource" />
+    <None Include="Properties\DataSources\BL.RapiAuto.Transmision.datasource" />
+    <None Include="Properties\DataSources\BL.RapiAuto.TransmisionBL.datasource" />
+    <None Include="Properties\DataSources\BL.RapiAuto.Usuario.datasource" />
     <None Include="Properties\DataSources\BL.RapiAuto.Vehiculo.datasource" />
     <None Include="Properties\DataSources\BL.RapiAuto.VehiculosBL.datasource" />
     <None Include="Properties\Settings.settings">

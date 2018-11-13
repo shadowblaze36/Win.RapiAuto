@@ -29,19 +29,28 @@ namespace Win.RapiAuto
         private void btAceptar_Click(object sender, EventArgs e)
         {
             string usuario;
-            string contraseña;
-            usuario = txtUsuario.Text;
-            contraseña = txtContraseña.Text;
+            string contrasena;
 
-            var resultado = _seguridad.Autorizar(usuario, contraseña);
-            if(resultado == true)
+            usuario = txtUsuario.Text;
+            contrasena = txtContraseña.Text;
+
+            btAceptar.Enabled = false;
+            btAceptar.Text = "Verificando...";
+            Application.DoEvents();
+
+            var resultado = _seguridad.Autorizar(usuario, contrasena);
+
+            if (resultado == true)
             {
                 this.Close();
             }
             else
             {
-                MessageBox.Show("Usuario o Contraseña incorrecta");
+                MessageBox.Show("Usuario o contraseña incorrecta");
             }
+
+            btAceptar.Enabled = true;
+            btAceptar.Text = "Aceptar";
         }
 
         private void formLogin_Load(object sender, EventArgs e)

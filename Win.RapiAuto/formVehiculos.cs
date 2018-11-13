@@ -15,11 +15,24 @@ namespace Win.RapiAuto
     public partial class formVehiculos : Form
     {
         VehiculosBL _vehiculos;
+        TipoBL _tiposBL;
+        CombustibleBL _combustiblesBL;
+        TransmisionBL _transmisionesBL;
         public formVehiculos()
         {
             InitializeComponent();
             _vehiculos = new VehiculosBL();
             listaVehiculosBindingSource.DataSource = _vehiculos.ObtenerVehiculos();
+
+            _tiposBL = new TipoBL();
+            listaTiposBindingSource.DataSource = _tiposBL.ObtenerTipos();
+
+            _combustiblesBL = new CombustibleBL();
+            listaCombustiblesBindingSource.DataSource = _combustiblesBL.ObtenerCombustibles();
+
+            _transmisionesBL = new TransmisionBL();
+            listaTransmisionesBindingSource.DataSource = _transmisionesBL.ObtenerTransmisiones();
+
         }
 
         private void listaVehiculosBindingNavigator_RefreshItems(object sender, EventArgs e)
@@ -47,7 +60,7 @@ namespace Win.RapiAuto
             {
                 listaVehiculosBindingSource.ResetBindings(false);
                 DeshabilitarHabilitarBotones(true);
-                MessageBox.Show("Producto guardado");
+                MessageBox.Show("Vehiculo guardado");
             }
             else
             {
@@ -60,6 +73,7 @@ namespace Win.RapiAuto
         {
             _vehiculos.AgregarVehiculo();
             listaVehiculosBindingSource.MoveNext();
+            
 
             DeshabilitarHabilitarBotones(false);
         }
@@ -106,8 +120,8 @@ namespace Win.RapiAuto
 
         private void Cancelar_Click(object sender, EventArgs e)
         {
+            _vehiculos.CancelarCambios();
             DeshabilitarHabilitarBotones(true);
-            Eliminar(0);
         }
 
         private void btAgregarFoto_Click(object sender, EventArgs e)
@@ -142,6 +156,11 @@ namespace Win.RapiAuto
         private void btRemoverFoto_Click(object sender, EventArgs e)
         {
             fotoPictureBox.Image = null;
+        }
+
+        private void formVehiculos_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

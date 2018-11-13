@@ -40,6 +40,9 @@ namespace BL.RapiAuto
         public void AgregarVehiculo()
         {
             var nuevoVehiculo = new Vehiculo();
+            nuevoVehiculo.TransmisionId = 1;
+            nuevoVehiculo.TipoId = 1;
+            nuevoVehiculo.CombustibleId = 1;
             ListaVehiculos.Add(nuevoVehiculo);
         }
         public bool EliminarVehiculo(int id)
@@ -70,6 +73,11 @@ namespace BL.RapiAuto
                 resultado.Mensaje = "Ingrese un modelo";
                 resultado.Exitoso = false;
             }
+            if (string.IsNullOrEmpty(vehiculo.Color) == true)
+            {
+                resultado.Mensaje = "Ingrese un modelo";
+                resultado.Exitoso = false;
+            }
             if (vehiculo.Año < 0)
             {
                 resultado.Mensaje = "Ingrese un año";
@@ -92,8 +100,31 @@ namespace BL.RapiAuto
                 resultado.Mensaje = "Ingrese un Cilindraje";
                 resultado.Exitoso = false;
             }
+            if (vehiculo.CombustibleId == 0)
+            {
+                resultado.Mensaje = "Ingrese un tipo de combustible";
+                resultado.Exitoso = false;
+            }
+            if (vehiculo.TipoId == 0)
+            {
+                resultado.Mensaje = "Ingrese un Tipo";
+                resultado.Exitoso = false;
+            }
+            if (vehiculo.TransmisionId == 0)
+            {
+                resultado.Mensaje = "Ingrese un tipo de transmision";
+                resultado.Exitoso = false;
+            }
 
             return resultado;
+        }
+        public void CancelarCambios()
+        {
+            foreach (var item in _contexto.ChangeTracker.Entries())
+            {
+                item.State = EntityState.Unchanged;
+                item.Reload();
+            }
         }
     }
 
@@ -102,12 +133,20 @@ namespace BL.RapiAuto
         public int Id { get; set; }
         public string Marca { get; set; }
         public string Modelo { get; set; }
+        public string Color { get; set; }
         public int Año { get; set; }
         public double Precio { get; set; }
         public int Kilometraje { get; set; }
         public string Cilindraje { get; set; }
         public byte[] Foto { get; set; }
         public bool Activo { get; set; }
+        public int TipoId { get; set; }
+        public Tipo Tipo { get; set; }
+        public int CombustibleId { get; set; }
+        public Combustible Combustible { get; set; }
+        public int TransmisionId { get; set; }
+        public Transmision Transmision { get; set; }
+
     }
     public class Resultado
     {

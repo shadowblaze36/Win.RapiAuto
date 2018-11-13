@@ -17,8 +17,14 @@ namespace BL.RapiAuto
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
+            Database.SetInitializer(new DatosDeInicio());
         }
 
         public DbSet<Vehiculo> Vehiculos { get; set; }
+        public DbSet<Tipo> Tipos { get; set; }
+        public DbSet<Combustible> Combustibles { get; set; }
+        public DbSet<Transmision> Transmisiones { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<Clientes> Clientes { get; set; }
     }
 }
