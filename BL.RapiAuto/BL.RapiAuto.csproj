@@ -30,6 +30,10 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
@@ -52,6 +56,14 @@
     <Compile Include="CombustibleBL.cs" />
     <Compile Include="Contexto.cs" />
     <Compile Include="DatosDeInicio.cs" />
+    <Compile Include="FacturaBL.cs" />
+    <Compile Include="PerfilUsuariosBL.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Resultado.cs" />
     <Compile Include="SeguridadBL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TipoBL.cs" />
@@ -61,6 +73,31 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+    <None Include="Properties\DataSources\Clientes.datasource" />
+    <None Include="Properties\DataSources\ClientesBL.datasource" />
+    <None Include="Properties\DataSources\Combustible.datasource" />
+    <None Include="Properties\DataSources\CombustibleBL.datasource" />
+    <None Include="Properties\DataSources\Contexto.datasource" />
+    <None Include="Properties\DataSources\DatosDeInicio.datasource" />
+    <None Include="Properties\DataSources\Factura.datasource" />
+    <None Include="Properties\DataSources\FacturaBL.datasource" />
+    <None Include="Properties\DataSources\FacturaDetalle.datasource" />
+    <None Include="Properties\DataSources\PerfilUsuario.datasource" />
+    <None Include="Properties\DataSources\PerfilUsuariosBL.datasource" />
+    <None Include="Properties\DataSources\Resultado.datasource" />
+    <None Include="Properties\DataSources\ResultadoCliente.datasource" />
+    <None Include="Properties\DataSources\SeguridadBL.datasource" />
+    <None Include="Properties\DataSources\Tipo.datasource" />
+    <None Include="Properties\DataSources\TipoBL.datasource" />
+    <None Include="Properties\DataSources\Transmision.datasource" />
+    <None Include="Properties\DataSources\TransmisionBL.datasource" />
+    <None Include="Properties\DataSources\Usuario.datasource" />
+    <None Include="Properties\DataSources\Vehiculo.datasource" />
+    <None Include="Properties\DataSources\VehiculosBL.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -5,6 +5,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -17,8 +18,26 @@ namespace Win.RapiAuto
         public formClientes()
         {
             InitializeComponent();
+
+            List<TextBox> BuscarTlist = new List<TextBox>();
+            List<string> BuscarSlist = new List<String>();
+            BuscarTlist.Add(txtBuscarCliente);
+            BuscarSlist.Add("Buscar cliente por nombre");
+            SetCueBanner(ref BuscarTlist, BuscarSlist);
+
             _cliente = new ClientesBL();
             listaClientesBindingSource.DataSource = _cliente.ObtenerClientes();
+        }
+
+        [DllImport("user32.dll", CharSet = CharSet.Auto, SetLastError = false)]
+        private static extern IntPtr SendMessage(IntPtr hWnd, uint msg, IntPtr i, string str);
+
+        void SetCueBanner(ref List<TextBox> textBox, List<string> CueText)
+        {
+            for (int x = 0; x < textBox.Count; x++)
+            {
+                SendMessage(textBox[x].Handle, 0x1501, (IntPtr)1, CueText[x]);
+            }
         }
 
         private void toolStripButton1_Click(object sender, EventArgs e)
@@ -79,13 +98,47 @@ namespace Win.RapiAuto
             {
                 listaClientesBindingSource.ResetBindings(false);
                 DeshabilitarHabilitarBotones(true);
-                MessageBox.Show(resultado.Mensaje);
+                MessageBox.Show("Cliente guardado exitosamente");
             }
         }
 
         private void listaClientesDataGridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
+        }
+
+        private void formClientes_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripTextBox1_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void txtBuscarCliente_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtBuscarCliente_TextChanged_1(object sender, EventArgs e)
+        {
+            _cliente = new ClientesBL();
+            var textoABuscar = txtBuscarCliente.Text;
+            listaClientesBindingSource.DataSource =
+                _cliente.ObtenerClientes(textoABuscar);
+        }
+
+        private void toolStripButton1_Click_1(object sender, EventArgs e)
+        {
+            if (idTextBox.Text != "")
+            {
+                var clienteId = Convert.ToInt32(idTextBox.Text);
+                _cliente.RefrescarDatos(clienteId);
+                
+                listaClientesBindingSource.ResetBindings(false);
+            }
         }
     }
 }

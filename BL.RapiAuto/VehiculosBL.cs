@@ -25,6 +25,13 @@ namespace BL.RapiAuto
             ListaVehiculos = _contexto.Vehiculos.Local.ToBindingList();
             return ListaVehiculos;
         }
+        public BindingList<Vehiculo> ObtenerVehiculos(string descripcionModelo)
+        {
+            _contexto.Vehiculos.Where(vehiculo => vehiculo.Modelo.Contains(descripcionModelo) == true).ToList();
+            ListaVehiculos = _contexto.Vehiculos.Local.ToBindingList();
+
+            return ListaVehiculos;
+        }
         public Resultado GuardarVehiculo(Vehiculo vehiculo)
         {
             var resultado = Validar(vehiculo);
@@ -62,6 +69,14 @@ namespace BL.RapiAuto
         {
             var resultado = new Resultado();
             resultado.Exitoso = true;
+
+            if (vehiculo == null)
+            {
+                resultado.Mensaje = "Agregue un vehiculo valido";
+                resultado.Exitoso = false;
+
+                return resultado ;
+            }
 
             if (string.IsNullOrEmpty(vehiculo.Marca) == true)
             {
@@ -126,6 +141,15 @@ namespace BL.RapiAuto
                 item.Reload();
             }
         }
+        public void RefrescarDatos(int vehiculoId)
+        {
+            var vehiculo = _contexto.Vehiculos.Find(vehiculoId);
+
+            if (vehiculo != null)
+            {
+                _contexto.Entry(vehiculo).Reload();
+            }
+        }
     }
 
     public class Vehiculo
@@ -146,11 +170,7 @@ namespace BL.RapiAuto
         public Combustible Combustible { get; set; }
         public int TransmisionId { get; set; }
         public Transmision Transmision { get; set; }
+        public int Existencia { get; set; }
 
-    }
-    public class Resultado
-    {
-        public bool Exitoso { get; set; }
-        public string Mensaje { get; set; }
     }
 }

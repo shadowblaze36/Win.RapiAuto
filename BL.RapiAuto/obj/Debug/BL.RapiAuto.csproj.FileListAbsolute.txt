@@ -34,3 +34,47 @@ C:\Users\Jorge Saravia\Desktop\Win.RapiAuto-master\BL.RapiAuto\obj\Debug\BL.Rapi
 C:\Users\Jorge Saravia\Desktop\Win.RapiAuto-master\BL.RapiAuto\obj\Debug\BL.RapiAuto.csproj.CopyComplete
 C:\Users\Jorge Saravia\Desktop\Win.RapiAuto-master\BL.RapiAuto\obj\Debug\BL.RapiAuto.dll
 C:\Users\Jorge Saravia\Desktop\Win.RapiAuto-master\BL.RapiAuto\obj\Debug\BL.RapiAuto.pdb
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\BL.RapiAuto\obj\Debug\BL.RapiAuto.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\BL.RapiAuto\obj\Debug\BL.RapiAuto.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\BL.RapiAuto\obj\Debug\BL.RapiAuto.dll
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\BL.RapiAuto\obj\Debug\BL.RapiAuto.pdb
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\BL.RapiAuto.dll.config
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\BL.RapiAuto.dll
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\BL.RapiAuto.pdb
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\BL.RapiAuto\obj\Debug\BL.RapiAuto.csproj.CopyComplete
+C:\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\BL.RapiAuto.dll.config
+C:\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\BL.RapiAuto.dll
+C:\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\BL.RapiAuto.pdb
+C:\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\EntityFramework.dll
+C:\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\EntityFramework.xml
+C:\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Win.RapiAuto-master\BL.RapiAuto\obj\Debug\BL.RapiAuto.csprojResolveAssemblyReference.cache
+C:\Win.RapiAuto-master\BL.RapiAuto\obj\Debug\BL.RapiAuto.dll
+C:\Win.RapiAuto-master\BL.RapiAuto\obj\Debug\BL.RapiAuto.pdb
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\BL.RapiAuto.dll.config
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\BL.RapiAuto.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\BL.RapiAuto.pdb
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\EntityFramework.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\EntityFramework.xml
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\BL.RapiAuto\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\BL.RapiAuto\obj\Debug\BL.RapiAuto.csprojResolveAssemblyReference.cache
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\BL.RapiAuto\obj\Debug\BL.RapiAuto.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\BL.RapiAuto\obj\Debug\BL.RapiAuto.pdb
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\BL.RapiAuto\bin\Debug\BL.RapiAuto.dll.config
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\BL.RapiAuto\bin\Debug\BL.RapiAuto.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\BL.RapiAuto\bin\Debug\BL.RapiAuto.pdb
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\BL.RapiAuto\bin\Debug\EntityFramework.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\BL.RapiAuto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\BL.RapiAuto\bin\Debug\EntityFramework.xml
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\BL.RapiAuto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\BL.RapiAuto\obj\Debug\BL.RapiAuto.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\BL.RapiAuto\obj\Debug\BL.RapiAuto.pdb
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\BL.RapiAuto\obj\Debug\BL.RapiAuto.csprojAssemblyReference.cache
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\BL.RapiAuto\obj\Debug\BL.RapiAuto.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\BL.RapiAuto\obj\Debug\BL.RapiAuto.csproj.CopyComplete

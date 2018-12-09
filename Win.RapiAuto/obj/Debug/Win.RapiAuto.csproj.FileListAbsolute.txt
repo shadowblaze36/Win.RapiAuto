@@ -61,3 +61,175 @@ C:\Users\Jorge Saravia\Desktop\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.Ra
 C:\Users\Jorge Saravia\Desktop\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.csproj.CopyComplete
 C:\Users\Jorge Saravia\Desktop\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.exe
 C:\Users\Jorge Saravia\Desktop\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.pdb
+C:\Users\Santos Pagoaga\Desktop\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\Win.RapiAuto.exe.config
+C:\Users\Santos Pagoaga\Desktop\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.exe
+C:\Users\Santos Pagoaga\Desktop\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.pdb
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\Win.RapiAuto.exe.config
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\Win.RapiAuto.exe
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\Win.RapiAuto.pdb
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\BL.RapiAuto.dll
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\BL.RapiAuto.pdb
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\BL.RapiAuto.dll.config
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.formClientes.resources
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.FormFactura.resources
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.formLogin.resources
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.formMenu.resources
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.formVehiculos.resources
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.Properties.Resources.resources
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.csproj.GenerateResource.cache
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.csproj.CopyComplete
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.exe
+C:\Users\Administrador\Documents\proyecto_progra3\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.pdb
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\Win.RapiAuto.exe.config
+C:\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.exe
+C:\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.pdb
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\Win.RapiAuto.exe
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\Win.RapiAuto.pdb
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\BL.RapiAuto.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\EntityFramework.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\BL.RapiAuto.pdb
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\EntityFramework.xml
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.csprojResolveAssemblyReference.cache
+C:\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.formClientes.resources
+C:\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.FormFactura.resources
+C:\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.formLogin.resources
+C:\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.formMenu.resources
+C:\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.formVehiculos.resources
+C:\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.Properties.Resources.resources
+C:\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.csproj.GenerateResource.Cache
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.Shared.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\stdole.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\FlashControlV71.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\ShockwaveFlashObjects.dll
+C:\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.FormReporteVehiculos.resources
+C:\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.FormReporteClientes.resources
+C:\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.FormReporteFacturas.resources
+C:\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.FormUsuarios.resources
+D:\Programación III\Proyecto Final\03-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\Win.RapiAuto.exe.config
+D:\Programación III\Proyecto Final\03-12-2018\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.exe
+D:\Programación III\Proyecto Final\03-12-2018\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.pdb
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\Win.RapiAuto.exe.manifest
+C:\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\Win.RapiAuto.application
+C:\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.exe.manifest
+C:\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.application
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\Win.RapiAuto.exe.config
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.exe
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.pdb
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\Win.RapiAuto.exe.manifest
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\Win.RapiAuto.application
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\Win.RapiAuto.exe
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\Win.RapiAuto.pdb
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\BL.RapiAuto.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.Shared.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\EntityFramework.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\FlashControlV71.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\ShockwaveFlashObjects.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\stdole.dll
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\BL.RapiAuto.pdb
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\EntityFramework.xml
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.csprojResolveAssemblyReference.cache
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.formClientes.resources
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.FormFactura.resources
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.formLogin.resources
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.formMenu.resources
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.FormReporteClientes.resources
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.FormReporteFacturas.resources
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.FormReporteVehiculos.resources
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.FormUsuarios.resources
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.formVehiculos.resources
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.Properties.Resources.resources
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.csproj.GenerateResource.Cache
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.exe.manifest
+D:\Programación III\Proyecto Final\04-12-2018\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.application
+C:\Users\Ernesto\OneDrive\Documentos\OneDrive\Programas\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\Win.RapiAuto.exe.config
+C:\Users\Ernesto\OneDrive\Documentos\OneDrive\Programas\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.exe
+C:\Users\Ernesto\OneDrive\Documentos\OneDrive\Programas\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.pdb
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\Win.RapiAuto.exe.config
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\obj\Debug\Win.RapiAuto.exe
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\obj\Debug\Win.RapiAuto.pdb
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\obj\Debug\Win.RapiAuto.formClientes.resources
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\obj\Debug\Win.RapiAuto.FormFactura.resources
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\obj\Debug\Win.RapiAuto.formLogin.resources
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\obj\Debug\Win.RapiAuto.formMenu.resources
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\obj\Debug\Win.RapiAuto.FormReporteClientes.resources
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\obj\Debug\Win.RapiAuto.FormReporteFacturas.resources
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\obj\Debug\Win.RapiAuto.FormReporteVehiculos.resources
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\obj\Debug\Win.RapiAuto.FormUsuarios.resources
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\obj\Debug\Win.RapiAuto.formVehiculos.resources
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\obj\Debug\Win.RapiAuto.Properties.Resources.resources
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\obj\Debug\Win.RapiAuto.csproj.GenerateResource.Cache
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\Win.RapiAuto.exe.manifest
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\Win.RapiAuto.application
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\Win.RapiAuto.exe
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\Win.RapiAuto.pdb
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\BL.RapiAuto.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\EntityFramework.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\FlashControlV71.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\stdole.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\BL.RapiAuto.pdb
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\EntityFramework.xml
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\obj\Debug\Win.RapiAuto.exe.manifest
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\obj\Debug\Win.RapiAuto.application
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\bin\Debug\BL.RapiAuto.dll.config
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\obj\Debug\Win.RapiAuto.csprojAssemblyReference.cache
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\obj\Debug\Win.RapiAuto.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Saravia\Desktop\Proyecto Final\Win.RapiAuto\obj\Debug\Win.RapiAuto.csproj.CopyComplete

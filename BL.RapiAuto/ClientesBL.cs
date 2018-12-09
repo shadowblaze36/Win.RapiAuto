@@ -18,11 +18,21 @@ namespace BL.RapiAuto
             _contexto = new Contexto();
             ListaClientes = new BindingList<Clientes>();
         }
-
+    
         public BindingList<Clientes> ObtenerClientes()
         {
             _contexto.Clientes.Load();
             ListaClientes = _contexto.Clientes.Local.ToBindingList();
+            return ListaClientes;
+        }
+
+        public BindingList<Clientes> ObtenerClientes(string descripcion)
+        {
+            _contexto.Clientes
+                .Where(cliente => cliente.NombreCliente.Contains(descripcion) == true)
+                .ToList();
+            ListaClientes = _contexto.Clientes.Local.ToBindingList();
+
             return ListaClientes;
         }
 
@@ -64,17 +74,34 @@ namespace BL.RapiAuto
             var resultado = new Resultado();
             resultado.Exitoso = true;
 
+                if (cliente == null)
+            {
+                resultado.Mensaje = "Agregue un cliente valido";
+                resultado.Exitoso = false;
+
+                return resultado;
+            }
             if (string.IsNullOrEmpty(cliente.NombreCliente) == true)
             {
                 resultado.Mensaje = "Debe ingresar un nombre";
                 resultado.Exitoso = false;
             }
+
             if (string.IsNullOrEmpty(cliente.RtnCliente) == true)
-            {
+                {
                 resultado.Mensaje = "Se debe agregar RTN del cliente";
                 resultado.Exitoso = false;
             }
             return resultado;
+        }
+        public void RefrescarDatos(int clienteId)
+        {
+            var cliente = _contexto.Clientes.Find(clienteId);
+
+            if (cliente != null)
+            {
+                _contexto.Entry(cliente).Reload();
+            }
         }
     }
 

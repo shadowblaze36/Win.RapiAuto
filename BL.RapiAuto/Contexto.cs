@@ -10,7 +10,7 @@ namespace BL.RapiAuto
 {
     public class Contexto: DbContext
     {
-        public Contexto(): base("RapiAuto")
+        public Contexto(): base ("Server=P3NW3SHSQL8-v01.shr.prod.phx3.secureserver.net;Database=yourfunnypics;User Id=yourfunnypics;Password=Temp%123;")
         {
 
         }
@@ -26,5 +26,8 @@ namespace BL.RapiAuto
         public DbSet<Transmision> Transmisiones { get; set; }
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Clientes> Clientes { get; set; }
+        public DbSet<Factura> Facturas { get; set; }
+        public DbSet<PerfilUsuario> PerfilesUsuarios { get; set; }
     }
 }
+
