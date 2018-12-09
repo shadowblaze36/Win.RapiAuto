@@ -10,7 +10,7 @@ namespace BL.RapiAuto
 {
     public class Contexto: DbContext
     {
-        public Contexto(): base ("Server=P3NW3SHSQL8-v01.shr.prod.phx3.secureserver.net;Database=yourfunnypics;User Id=yourfunnypics;Password=Temp%123;")
+        public Contexto(): base ("Videojuegos")
         {
 
         }
